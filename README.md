@@ -1,6 +1,4 @@
-**# Sp-3.Task-2
-Sp-3 Task-2
-**<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
